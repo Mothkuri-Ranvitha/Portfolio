@@ -21,7 +21,7 @@ This repository contains the source code for my personal **Portfolio Website**, 
 I would love to connect with you!  
 
 - **Email:** [ranvitahmothkuri@gmail.com](mailto:ranvitahmothkuri@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in.ranvitha-mothkuri)  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ranvitha-mothkuri)  
 - **GitHub:** [mothkuri-ranvitha](https://github.com/mothkuri-ranvitha)  
 - **Portfolio:** [mothkuri-ranvitha.github.io/Portfolio](https://mothkuri-ranvitha.github.io/Portfolio/)  
 
